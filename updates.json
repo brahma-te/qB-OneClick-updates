@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "qbit-oneclick@local.home": {
+      "updates": [
+        {
+          "version": "1.1.2",
+          "update_link": "https://github.com/brahma-te/qB-OneClick-updates/releases/download/v1.1.2/qB-OneClick-1.1.2.xpi"
+        }
+      ]
+    }
+  }
+}
